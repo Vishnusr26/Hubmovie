@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hubmovie/static/css/main.334bdeb1.css",
+    "main.js": "/Hubmovie/static/js/main.032cd8e6.js",
+    "index.html": "/Hubmovie/index.html",
+    "static/media/search.svg": "/Hubmovie/static/media/search.374dc34a202f33824c399a37082cabeb.svg",
+    "main.334bdeb1.css.map": "/Hubmovie/static/css/main.334bdeb1.css.map",
+    "main.032cd8e6.js.map": "/Hubmovie/static/js/main.032cd8e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.032cd8e6.js"
+  ]
+}
